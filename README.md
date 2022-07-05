@@ -1,4 +1,4 @@
-# xtreme-vue2
+# TASK
 
 ## Project setup
 ```
